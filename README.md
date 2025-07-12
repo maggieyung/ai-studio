@@ -1,2 +1,2 @@
-# AI-studio
+# overview
 BTTAI Fall AI Studio
